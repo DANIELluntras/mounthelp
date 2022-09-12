@@ -378,6 +378,17 @@ font-size: 2.3rem;
   padding:0.1rem;
   background-color: #222;
 }
+.line1{
+  margin: 5px;
+  padding:0.1rem;
+  background-color: #222;
+}
+.line2{
+  margin:5px;
+  padding:0.1rem;
+  background-color: #222;
+}
+
 .image-education{
   display: flex;
   text-align: center;
@@ -551,4 +562,19 @@ position: relative;
 }
 .sectionthree{
   text-align: center;
+}
+.operations__header{
+font-size: 30px;
+
+
+}
+.prev{
+  border-radius: 100%;
+  padding:10px;
+background-color: #4bbb7d;
+}
+.next{
+  border-radius: 100%;
+  padding:10px;
+background-color: #4bbb7d; 
 }
